@@ -1,0 +1,11 @@
+services:
+  maple_web:
+    build: .
+    container_name: maple_company_website
+    restart: unless-stopped
+    environment:
+      NEXT_TELEMETRY_DISABLED: "1"
+      NEXT_PUBLIC_SITE_URL: "https://maplesgedu.com"
+      NEXT_PUBLIC_GA_MEASUREMENT_ID: ""
+    ports:
+      - "3000:3000"

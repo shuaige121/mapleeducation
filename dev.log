@@ -1,0 +1,59 @@
+
+> maple-web@0.1.0 dev
+> next dev
+
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+   ▲ Next.js 16.0.4 (Turbopack)
+   - Local:         http://localhost:3000
+   - Network:       http://172.20.10.9:3000
+
+ ✓ Starting...
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+ ✓ Ready in 3.3s
+ ○ Compiling / ...
+`legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+ GET / 200 in 8.8s (compile: 8.7s, render: 120ms)
+ GET /assets/logo.png 404 in 271ms (compile: 211ms, render: 61ms)
+ GET /assets/mascots/main.jpeg 404 in 797ms (compile: 243ms, render: 555ms)
+ ⨯ The requested resource isn't a valid image for /assets/logo.png received null
+ ⨯ The requested resource isn't a valid image for /assets/mascots/main.jpeg received null
+ GET /images/schools/kaplan.png 404 in 647ms (compile: 75ms, render: 572ms)
+ GET /images/schools/psb.png 404 in 647ms (compile: 67ms, render: 580ms)
+ GET /images/schools/nus.png 404 in 58ms (compile: 12ms, render: 46ms)
+ GET /images/schools/amity.png 404 in 59ms (compile: 4ms, render: 55ms)
+ GET /images/schools/ntu.png 404 in 58ms (compile: 37ms, render: 20ms)
+ GET /immigration-workpasses 200 in 219ms (compile: 210ms, render: 8ms)
+ GET /butler-concierge 200 in 493ms (compile: 482ms, render: 11ms)
+ GET /butler-concierge 200 in 20ms (compile: 3ms, render: 16ms)
+ GET /butler-concierge 200 in 26ms (compile: 4ms, render: 22ms)
+ GET /resources 200 in 358ms (compile: 351ms, render: 6ms)
+ GET / 200 in 30ms (compile: 7ms, render: 23ms)
+ GET /assets/mascots/main.jpeg 404 in 26ms (compile: 3ms, render: 23ms)
+ ⨯ The requested resource isn't a valid image for /assets/mascots/main.jpeg received null
+ GET /images/schools/kaplan.png 404 in 61ms (compile: 5ms, render: 56ms)
+ GET /images/schools/psb.png 404 in 72ms (compile: 20ms, render: 52ms)
+ GET /images/schools/amity.png 404 in 73ms (compile: 32ms, render: 41ms)
+ GET /images/schools/nus.png 404 in 42ms (compile: 15ms, render: 27ms)
+ GET /images/schools/ntu.png 404 in 29ms (compile: 14ms, render: 15ms)
+ GET /images/schools/kaplan.png 404 in 124ms (compile: 9ms, render: 114ms)
+ GET /images/schools/psb.png 404 in 122ms (compile: 38ms, render: 84ms)
+ GET /images/schools/amity.png 404 in 121ms (compile: 44ms, render: 76ms)
+ GET /images/schools/nus.png 404 in 86ms (compile: 46ms, render: 40ms)
+ GET /images/schools/ntu.png 404 in 85ms (compile: 50ms, render: 35ms)
+ GET /assets/mascots/main.jpeg 404 in 65ms (compile: 17ms, render: 48ms)
+ ⨯ The requested resource isn't a valid image for /assets/mascots/main.jpeg received null
+ GET /assets/mascots/main.jpeg 404 in 36ms (compile: 3ms, render: 33ms)
+ ⨯ The requested resource isn't a valid image for /assets/mascots/main.jpeg received null
+ GET /assets/mascots/main.jpeg 404 in 39ms (compile: 3ms, render: 36ms)
+ ⨯ The requested resource isn't a valid image for /assets/mascots/main.jpeg received null
+ HEAD / 200 in 26ms (compile: 1385µs, render: 25ms)
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[?25h
