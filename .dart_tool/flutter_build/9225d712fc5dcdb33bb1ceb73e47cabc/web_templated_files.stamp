@@ -1,0 +1,1 @@
+{"inputs":["B:\\Desktop\\maple-web\\web\\*\\index.html","B:\\Desktop\\maple-web\\web\\flutter_bootstrap.js","C:\\flutter\\bin\\cache\\engine.stamp"],"outputs":["B:\\Desktop\\maple-web\\build\\web\\*\\index.html","B:\\Desktop\\maple-web\\build\\web\\flutter_bootstrap.js"],"buildKey":"[{\"compileTarget\":\"dart2js\",\"renderer\":\"canvaskit\",\"mainJsPath\":\"main.dart.js\"},{}]"}

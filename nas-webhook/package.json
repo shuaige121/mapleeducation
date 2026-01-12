@@ -1,0 +1,13 @@
+{
+  "name": "maple-nas-webhook",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NAS webhook receiver for Maple Sales Console",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

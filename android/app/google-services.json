@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077056016022",
+    "project_id": "mapleeducation",
+    "storage_bucket": "mapleeducation.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077056016022:android:843838aff58264feac3cb7",
+        "android_client_info": {
+          "package_name": "com.mapleeducation.sales.maple_sales"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc6z2hEqOVvfthje2gjWHdKkmalIRI0PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

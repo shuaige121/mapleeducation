@@ -1,0 +1,40 @@
+Analyzing maple-web...                                          
+
+warning - Unused import: 'package:firebase_auth/firebase_auth.dart' - lib\app\app.dart:1:8 - unused_import
+warning - Unused import: 'package:flutter/foundation.dart' - lib\app\app.dart:2:8 - unused_import
+   info - 'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after v3.18.0-0.1.pre - lib\app\theme.dart:29:7 - deprecated_member_use
+   info - 'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after v3.18.0-0.1.pre - lib\app\theme.dart:39:44 - deprecated_member_use
+   info - 'surfaceVariant' is deprecated and shouldn't be used. Use surfaceContainerHighest instead. This feature was deprecated after v3.18.0-0.1.pre - lib\app\theme.dart:58:32 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\app\theme.dart:58:47 - deprecated_member_use
+warning - The member 'setMockInitialValues' can only be used within 'package:shared_preferences/src/shared_preferences_legacy.dart' or a test - lib\main.dart:16:23 - invalid_use_of_visible_for_testing_member
+warning - Unused import: 'package:tutorial_coach_mark/tutorial_coach_mark.dart' - lib\screens\dashboard_screen.dart:7:8 - unused_import
+warning - Unused import: '../models/reminder.dart' - lib\screens\dashboard_screen.dart:13:8 - unused_import
+warning - The value of the field '_reminderService' isn't used - lib\screens\dashboard_screen.dart:58:9 - unused_field
+warning - The value of the field '_calendarService' isn't used - lib\screens\dashboard_screen.dart:59:9 - unused_field
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\screens\dashboard_screen.dart:254:41 - use_build_context_synchronously
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\dashboard_screen.dart:266:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\dashboard_screen.dart:267:40 - deprecated_member_use
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\screens\dashboard_screen.dart:291:41 - use_build_context_synchronously
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\dashboard_screen.dart:413:66 - deprecated_member_use
+  error - The getter 'pdfUrl' isn't defined for the type 'GeneratedDocument' - lib\screens\dashboard_screen.dart:588:29 - undefined_getter
+  error - The getter 'pdfUrl' isn't defined for the type 'GeneratedDocument' - lib\screens\dashboard_screen.dart:589:53 - undefined_getter
+  error - The method 'generateDocument' isn't defined for the type 'DocumentService' - lib\screens\dashboard_screen.dart:653:43 - undefined_method
+warning - The declaration '_formatCurrency' isn't referenced - lib\screens\dashboard_screen.dart:705:10 - unused_element
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_screen.dart:223:28 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_screen.dart:224:28 - deprecated_member_use
+   info - Unnecessary use of multiple underscores - lib\screens\home_screen.dart:286:35 - unnecessary_underscores
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_screen.dart:333:38 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_screen.dart:347:38 - deprecated_member_use
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\screens\login_screen.dart:105:56 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\screens\login_screen.dart:106:80 - use_build_context_synchronously
+   info - Unnecessary use of 'toList' in a spread - lib\services\document_builder.dart:150:10 - unnecessary_to_list_in_spreads
+   info - 'Table.fromTextArray' is deprecated and shouldn't be used. Use TableHelper.fromTextArray() instead - lib\services\document_builder.dart:153:12 - deprecated_member_use
+   info - The parameter name 'sum' matches a visible type name - lib\services\document_service.dart:55:45 - avoid_types_as_parameter_names
+  error - The getter 'intendedStart' isn't defined for the type 'Client' - lib\services\document_service.dart:111:27 - undefined_getter
+warning - The value of the local variable 'isZh' isn't used - lib\widgets\client_form.dart:91:11 - unused_local_variable
+  error - The getter 'publicSchoolAEIS' isn't defined for the type 'AppLocalizations' - lib\widgets\client_form.dart:307:21 - undefined_getter
+  error - The getter 'publicUniversity' isn't defined for the type 'AppLocalizations' - lib\widgets\client_form.dart:309:21 - undefined_getter
+  error - The getter 'privateUniversity' isn't defined for the type 'AppLocalizations' - lib\widgets\client_form.dart:311:21 - undefined_getter
+  error - The getter 'internationalSchool' isn't defined for the type 'AppLocalizations' - lib\widgets\client_form.dart:313:21 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\language_selection_dialog.dart:22:37 - deprecated_member_use
+
